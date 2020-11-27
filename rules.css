@@ -4,3 +4,7 @@ h1{
     font-size: large;
 }
 
+nav ul{
+    /* list-style-type: none; */
+    list-style: none;
+}
