@@ -59,10 +59,16 @@ p{
 
 #intro{
 	float:left;
-	width:40%;
+	width:30%;
 	padding-left:10px;
 	background-color: #745f44;
     margin-top:10px;
+}
+
+#video{
+	float:right;
+	margin-right:30;
+	margin-top:10px;
 }
 
 @font-face {
