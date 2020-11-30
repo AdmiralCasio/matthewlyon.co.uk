@@ -1,26 +1,43 @@
 h1{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: large;
-    display: flex;
+	clear: both;
+	display: inline-flex;
+	
+}
+
+header{
+	background-color: #333132
 }
 
 nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: inline-block;
+	float: right;
+	clear: both;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	
 }
 nav ul{
     list-style-type: none;
+	text-align: center;
+	padding-right: 50px;
+	
 }
 
 nav ul li{
     display: inline-block;
     text-align: center;
+	padding-left: 20px;
 }
 
 nav ul li a{
     text-align: center;
+	color: lightgray;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-style: bold;
+	text-decoration: none;
+	
 }
 
 nav ul li a:hover{
