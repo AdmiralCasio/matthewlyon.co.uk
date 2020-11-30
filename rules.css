@@ -52,6 +52,13 @@ p{
 
 }
 
+#intro{
+	float:left;
+	width:40%;
+	padding-left:10px;
+
+}
+
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
