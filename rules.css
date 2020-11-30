@@ -41,7 +41,11 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    background-color: aquamarine;
+    background-color: #2d3c82;
+}
+
+.ps{
+	font-family: sans-serif;
 }
 
 @font-face {
