@@ -3,6 +3,7 @@ h1{
     font-family: Product Sans;
     clear: both;
     display: inline-flex;
+    padding-left:50; 
 	
 }
 
@@ -11,7 +12,7 @@ header{
 }
 
 nav{
-    display: inline-block;
+    display: inline-flex;
 	float: right;
 	clear: both;
 	padding-top: 13px;
@@ -26,7 +27,7 @@ nav ul{
 }
 
 nav ul li{
-    display: inline-block;
+    display: inline-flex;
     text-align: center;
 	padding-left: 20px;
 }
@@ -45,7 +46,10 @@ nav ul li a:hover{
 }
 
 .ps{
-	font-family: sans-serif;
+	font-family: Arial;
+}
+p{
+
 }
 
 @font-face {
