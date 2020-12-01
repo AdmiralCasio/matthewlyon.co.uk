@@ -4,17 +4,17 @@ h1{
     clear: both;
     display: inline-flex;
     padding-left:50;
-    color: navajowhite;
+    color: d8f7ff;
 	
 }
 
 header{
-	background-color: #333132;
+	background-color: #001c29;
 	border-radius:5px;
 }
 
 body{
-	background-color: #1c1205;
+	background-color: #000d13;
 }
 
 nav{
@@ -48,7 +48,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    background-color: #91867e;
+    background-color: #07435e;
     border-radius:2px;
 }
 
@@ -63,9 +63,10 @@ p{
 	float:left;
 	width:30%;
 	padding-left:10px;
-	background-color: #745f44;
+	background-color: #042838;
     margin-top:10px;
     border-radius:5px;
+    color:d8f7ff;
 }
 
 #video{
