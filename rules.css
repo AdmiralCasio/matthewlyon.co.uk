@@ -22,9 +22,7 @@ nav{
     display: inline-flex;
 	float: right;
 	clear: both;
-	padding-top: 13px;
-	padding-bottom: 12px;
-	
+	padding-top: 2.4vh;	
 }
 nav ul{
     list-style-type: none;
