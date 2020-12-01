@@ -13,6 +13,7 @@ header{
 	border-radius:5px;
 }
 
+
 body{
 	background-color: #000d13;
 }
@@ -73,6 +74,11 @@ p{
 	float:right;
 	margin-right:30;
 	margin-top:10px;
+}
+
+#scotlandnoir{
+	width:50vw;
+	height:28.13vw;
 }
 
 @font-face {
