@@ -3,7 +3,7 @@ h1{
     font-family: Product Sans;
     clear: both;
     display: inline-flex;
-    padding-left:50;
+    padding-left: 2vw;
     color: d8f7ff;
 	
 }
@@ -53,9 +53,6 @@ nav ul li a:hover{
 
 .ps{
 	font-family: Arial;
-}
-p{
-
 }
 
 #intro{
