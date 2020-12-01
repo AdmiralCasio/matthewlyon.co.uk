@@ -4,7 +4,7 @@ h1{
     clear: both;
     display: inline-flex;
     padding-left: 2vw;
-    color: d8f7ff;
+    color: #d8f7ff;
 	
 }
 
@@ -39,7 +39,7 @@ nav ul li{
 
 nav ul li a{
     text-align: center;
-	color: lightgray;
+	color: #d8f7ff;
 	font-family: Product Sans;
 	font-style: bold;
 	text-decoration: none;
@@ -53,6 +53,16 @@ nav ul li a:hover{
 
 .ps{
 	font-family: Arial;
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	width: 98vw;
+	text-align: center;
+	color: #d8f7ff;
+	padding: 10px;
+	height: 20px;
 }
 
 #intro{
