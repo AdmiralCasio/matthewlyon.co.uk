@@ -55,6 +55,13 @@ nav ul li a:hover{
 	font-family: Arial;
 }
 
+#tac{
+	color: #d8f7ff;
+	font-size: x-small;
+	float:left;
+	display: inline-flex;
+}
+
 footer{
 	position: absolute;
 	bottom: 0;
